@@ -1,7 +1,4 @@
 
-
-
-
 var stats = document.querySelectorAll('.statics-container');
 
 stats.forEach((stat, idx)=>{
