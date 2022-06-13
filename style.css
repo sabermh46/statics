@@ -86,6 +86,7 @@ h1.title {
     transition: 0.5s;
     height: 0px;
     font-size: 12px;
+    border-radius: 4px 4px 0 0;
 }
 .stat-body:nth-child(1) {
     background: rgb(187, 132, 50);
