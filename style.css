@@ -79,7 +79,6 @@ h1.title {
 }
 .stat-body > .item {
     text-align: center;
-    background: rgb(179, 138, 228);
     color: white;
     width: 40px;
     padding: 5px;
@@ -88,10 +87,25 @@ h1.title {
     font-size: 12px;
     border-radius: 4px 4px 0 0;
 }
-.stat-body:nth-child(1) {
-    background: rgb(187, 132, 50);
-}
 
 .bC1 {
-    background: rgb(164, 153, 91) !important;
+    background: rgb(72, 174, 113) !important;
+}
+.bC2 {
+    background: rgb(179, 138, 228) !important;
+}
+.bC3 {
+    background: rgb(118, 150, 108) !important;
+}
+.bC4 {
+    background: rgb(82, 115, 164) !important;
+}
+.bC5 {
+    background: rgb(176, 82, 171) !important;
+}
+.bC6 {
+    background: rgb(108, 169, 195) !important;
+}
+.bC7 {
+    background: rgb(113, 113, 113) !important;
 }

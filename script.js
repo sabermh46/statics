@@ -23,5 +23,6 @@ stats.forEach((stat, idx)=>{
         var initial = value[i];
         item.style.height = `${ initial * hFactor }px`;
         item.style.transitionDelay = `${i*0.1}s`;
+        item.classList.add(`bC${parseInt(Math.random()*6) + 1}`)
     })
 })
