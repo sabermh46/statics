@@ -81,10 +81,11 @@ h1.title {
     text-align: center;
     background: rgb(179, 138, 228);
     color: white;
-    width: 30px;
+    width: 40px;
     padding: 5px;
     transition: 0.5s;
     height: 0px;
+    font-size: 12px;
 }
 .stat-body:nth-child(1) {
     background: rgb(187, 132, 50);
